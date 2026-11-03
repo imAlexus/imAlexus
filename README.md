@@ -1,4 +1,4 @@
-# Hi, I'm Alex 👋
+# Hi, I'm Alessandro 👋
 
 Developer from Italy 🇮🇹 building tools around AI coding agents.
 I mostly write **Rust** and **TypeScript**.
