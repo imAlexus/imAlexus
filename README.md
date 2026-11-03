@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**imAlexus/imAlexus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer from Italy 🇮🇹 building tools around AI coding agents.
+I mostly write **Rust** and **TypeScript**.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🪽 [HeavensCode](https://github.com/imAlexus/HeavensCode)
+
+A local-first desktop workspace for AI coding agents (Claude Code, Codex, OpenCode, Gemini CLI).
+Run several tasks in parallel, each in its own Git worktree, review diffs and merge, all in one window.
+No account, no telemetry.
+
+**Stack:** Tauri 2 · Rust · SvelteKit · TypeScript · SQLite
+
+## Tech
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
